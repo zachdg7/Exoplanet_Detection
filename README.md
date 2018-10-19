@@ -1,5 +1,10 @@
 # Exoplanet Detection
 
+problem statement
+short description
+short outline
+how should they start looking through the files?
+contact me section at the end
 
 **Table of Contents:** <br>
     [Technical Report](/Technical_Report.ipynb) <br>

@@ -1,11 +1,11 @@
 # Exoplanet Detection
 
 
-Table of contents
-    Technical Report
-    Data Extraction link
-    Data Munging link
-    Modeling link
+Table of Contents:
+    [Technical Report](/Technical_Report.ipynb)
+    [Data Extraction Notebook](/Data_Extraction.ipynb)
+    [Data Munging Notebook](/Munging.ipynb)
+    [Modeling Notebook](/models.ipynb)
     
 List the external libraries/packages, especially if they are not part of the base Anaconda distribution.
     Astropy for opening .fit files

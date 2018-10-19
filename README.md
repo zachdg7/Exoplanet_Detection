@@ -1,14 +1,20 @@
-# Exoplanets
+# Exoplanet Detection
 
 
-summary of what the repo contains (Table of contents)
-    provide links to important files.
+Table of contents
+    Technical Report
+    Data Extraction link
+    Data Munging link
+    Modeling link
     
 List the external libraries/packages, especially if they are not part of the base Anaconda distribution.
-    Astropy
-    Wget scripts
+    Astropy for opening .fit files
+    Wget scripts for downloading from NASA API
     
 External links
     blog
+    https://medium.com/datadriveninvestor/finding-a-new-planet-fc088e5d2b55
     portfolio site
+    https://zachdg7.github.io/
     linkedin
+    https://www.linkedin.com/in/zachary-david-green/

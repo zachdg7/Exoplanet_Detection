@@ -1,20 +1,20 @@
 # Exoplanet Detection
 
 
-Table of Contents:
-    [Technical Report](/Technical_Report.ipynb)
-    [Data Extraction Notebook](/Data_Extraction.ipynb)
-    [Data Munging Notebook](/Munging.ipynb)
-    [Modeling Notebook](/models.ipynb)
+**Table of Contents:** <br>
+    [Technical Report](/Technical_Report.ipynb) <br>
+    [Data Extraction Notebook](/Data_Extraction.ipynb) <br>
+    [Data Munging Notebook](/Munging.ipynb) <br>
+    [Modeling Notebook](/models.ipynb) <br>
     
-List the external libraries/packages, especially if they are not part of the base Anaconda distribution.
-    Astropy for opening .fit files
-    Wget scripts for downloading from NASA API
+**Extra Libraries Used:** <br>
+    Astropy for opening .fit files <br>
+    Wget scripts for downloading from NASA API <br>
     
-External links
-    blog
-    https://medium.com/datadriveninvestor/finding-a-new-planet-fc088e5d2b55
-    portfolio site
-    https://zachdg7.github.io/
-    linkedin
-    https://www.linkedin.com/in/zachary-david-green/
+**External links** <br>
+    Blog: <br>
+    https://medium.com/datadriveninvestor/finding-a-new-planet-fc088e5d2b55 <br>
+    Portfolio: <br>
+    https://zachdg7.github.io/ <br>
+    LinkedIn: <br>
+    https://www.linkedin.com/in/zachary-david-green/ <br>

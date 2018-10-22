@@ -1,10 +1,8 @@
 # Exoplanet Detection
 
-problem statement
-short description
-short outline
-how should they start looking through the files?
-contact me section at the end
+The purpose of this project is to develop a neural network that can detect planets in other solar systems by analyzing changes in the brightness of the star.
+The data was collected from campaign 4 of the Kepler spacecraft mission.
+For a detailed description of this project, see the technical report in the links below:
 
 **Table of Contents:** <br>
     [Technical Report](/Technical_Report.ipynb) <br>
@@ -12,12 +10,12 @@ contact me section at the end
     [Data Munging Notebook](/Munging.ipynb) <br>
     [Modeling Notebook](/models.ipynb) <br>
     
-**Extra Libraries Used:** <br>
-    Astropy for opening .fit files <br>
+**Extra Technologies Used:** <br>
+    Astropy library for opening .fit files <br>
     Wget scripts for downloading from NASA API <br>
     
 **External links** <br>
-    Blog: <br>
+    Blog Post: <br>
     https://medium.com/datadriveninvestor/finding-a-new-planet-fc088e5d2b55 <br>
     Portfolio: <br>
     https://zachdg7.github.io/ <br>

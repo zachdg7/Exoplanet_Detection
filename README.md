@@ -3,7 +3,7 @@
 ### Problem Statement:
 The purpose of this project is to develop a neural network that can detect planets in other solar systems by analyzing changes in the brightness of stars (light curves). <br>
 
-Answer the question: <br>
+##### Answer the question: <br>
 Out of the 5000 stars thought to be visible to the human eye, how many have detectable exoplanets? <br>
 
 ### Data Collection and Processing:
@@ -22,6 +22,8 @@ Predicted 98 stars to have planets out of 5000 stars. <br>
 
 For a detailed description of this project, see the technical report in the links below: <br>
 
+<br>
+
 **Table of Contents:** <br>
     [Technical Report](/Technical_Report.ipynb) <br>
     [Data Extraction Notebook](/Data_Extraction.ipynb) <br>
@@ -32,7 +34,7 @@ For a detailed description of this project, see the technical report in the link
     Astropy library for opening .fit files <br>
     Wget scripts for downloading from NASA API <br>
     
-**External links** <br>
+**External links:** <br>
     Blog Post: <br>
     https://medium.com/datadriveninvestor/finding-a-new-planet-fc088e5d2b55 <br>
     Portfolio: <br>

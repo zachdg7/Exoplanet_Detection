@@ -1,7 +1,25 @@
-# Exoplanet Detection
+# Exoplanet Detection with Artificial Neural Networks
 
-The purpose of this project is to develop a neural network that can detect planets in other solar systems by analyzing changes in the brightness of the star.
-The data was collected from campaign 4 of the Kepler spacecraft mission.
+### Problem Statement:
+The purpose of this project is to develop a neural network that can detect planets in other solar systems by analyzing changes in the brightness of stars (light curves).
+
+Answer the question:
+Out of the 5000 stars thought to be visible to the human eye, how many have detectable exoplanets?
+
+### Data Collection and Processing:
+The light curve data used in this project was collected by the Kepler Spacecraft and retrieved from NASA's Bulk Data API.
+The light curves were cleaned of null values and normally scaled in order to compare stars of different brightnesses.
+
+### Neural Network Modeling:
+1100 light curves from stars with confirmed planets mixed into training data when fitting the network.
+1 dimensional convolutional neural network used to detect transit patterns in lightcurves and classify star as having exoplanets or not.
+
+### Results:
+85% accuracy on training dataset.
+Predicted 98 stars to have planets out of 5000 stars.
+> 12 true exoplanet stars predicted (15 times better than chance).
+> 40 actual exoplanet stars in set (30% in predictions).
+
 For a detailed description of this project, see the technical report in the links below:
 
 **Table of Contents:** <br>

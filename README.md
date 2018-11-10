@@ -3,7 +3,7 @@
 ### Problem Statement:
 The purpose of this project is to develop a neural network that can detect planets in other solar systems by analyzing changes in the brightness of stars (light curves). <br>
 
-#### Answer the question: <br>
+Answer the question: <br>
 Out of the 5000 stars thought to be visible to the human eye, how many have detectable exoplanets? <br>
 
 ### Data Collection and Processing:

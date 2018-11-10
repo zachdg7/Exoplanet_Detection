@@ -3,7 +3,7 @@
 ### Problem Statement:
 The purpose of this project is to develop a neural network that can detect planets in other solar systems by analyzing changes in the brightness of stars (light curves). <br>
 
-Answer the question: <br>
+***Answer the Question:*** <br>
 Out of the 5000 stars thought to be visible to the human eye, how many have detectable exoplanets? <br>
 
 ### Data Collection and Processing:
@@ -11,8 +11,8 @@ The light curve data used in this project was collected by the Kepler Spacecraft
 The light curves were cleaned of null values and normally scaled in order to compare stars of different brightnesses. <br>
 
 ### Neural Network Modeling:
-1100 light curves from stars with confirmed planets mixed into training data when fitting the network. <br>
-1 dimensional convolutional neural network used to detect transit patterns in lightcurves and classify star as having exoplanets or not. <br>
+1156 light curves from stars with confirmed planets mixed into training data when fitting the network. <br>
+One-dimensional convolutional neural network engineered to detect transit patterns in lightcurves and classify star as having exoplanets or not. <br>
 
 ### Results:
 85% accuracy on training dataset. <br>

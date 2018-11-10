@@ -43,6 +43,9 @@ For a detailed description of this project, see the technical report in the link
     https://www.linkedin.com/in/zachary-david-green/ <br>
     
 <br>
+
+
+
 #### Inspirations and Sources: <br>
 List of all confirmed Exoplanets: <br>
 http://www.openexoplanetcatalogue.com/systems/?fields=radiusEarth&fields=namelink&fields=numberofstars&fields=systemname&fields=numberofplanets&fields=massEarth&fields=mass&fields=radius&fields=discoverymethod <br>

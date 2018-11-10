@@ -27,8 +27,8 @@ For a detailed description of this project, see the technical report in the link
 **Table of Contents:** <br>
     [Technical Report](/Technical_Report.ipynb) <br>
     [Data Extraction Notebook](/Data_Extraction.ipynb) <br>
-    [Data Munging Notebook](/Munging.ipynb) <br>
-    [Modeling Notebook](/models.ipynb) <br>
+    [Data Cleaning and Labeling Notebook](/Munging.ipynb) <br>
+    [Neural Network Modeling Notebook](/models.ipynb) <br>
     
 **Extra Technologies Used:** <br>
     Astropy library for opening .fit files <br>
@@ -41,3 +41,11 @@ For a detailed description of this project, see the technical report in the link
     https://zachdg7.github.io/ <br>
     LinkedIn: <br>
     https://www.linkedin.com/in/zachary-david-green/ <br>
+    
+<br>
+
+***Inspirations and Sources:***<br>
+List of all confirmed Exoplanets: <br>
+http://www.openexoplanetcatalogue.com/systems/?fields=radiusEarth&fields=namelink&fields=numberofstars&fields=systemname&fields=numberofplanets&fields=massEarth&fields=mass&fields=radius&fields=discoverymethod <br>
+Google AI's Hunt for Exoplanets: <br>
+https://ai.googleblog.com/2018/03/open-sourcing-hunt-for-exoplanets.html

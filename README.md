@@ -1,4 +1,5 @@
 # Exoplanet Detection with Artificial Neural Networks
+<img src="assets/space_suit.png">
 
 ### Problem Statement:
 The purpose of this project is to develop a neural network that can detect planets in other solar systems by analyzing changes in the brightness of stars (light curves). <br>
@@ -51,5 +52,5 @@ List of all confirmed Exoplanets: <br>
 http://www.openexoplanetcatalogue.com/systems/?fields=radiusEarth&fields=namelink&fields=numberofstars&fields=systemname&fields=numberofplanets&fields=massEarth&fields=mass&fields=radius&fields=discoverymethod <br>
 Google AI's Hunt for Exoplanets: <br>
 https://ai.googleblog.com/2018/03/open-sourcing-hunt-for-exoplanets.html <br>
-NASA Bulk Data:
+NASA Bulk Data: <br>
 https://exoplanetarchive.ipac.caltech.edu/bulk_data_download/

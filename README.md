@@ -2,7 +2,7 @@
 
 #### Note: This project is in stage 2, the results described here are from stage 1. <br>
 ***Stage 2 Goals:*** <br>
-Complete - Label stars as having exoplanets if there exists a confirmed exoplanet with an orbital period less than the observation period. <br>
+Complete - Label stars as having exoplanets if it has a confirmed exoplanet with an orbit less than the observation period. <br>
 In Progress - Turn neural network into a pipeline in order to Gridsearch over various topologies and hyperparameters. <br>
 In Progress - Put pipeline on AWS server and run Gridsearch to optimize model. <br>
 

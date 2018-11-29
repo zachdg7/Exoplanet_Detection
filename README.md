@@ -26,6 +26,9 @@ Predicted 98 stars to have planets out of 5000 stars. <br>
 > 12 true exoplanet stars predicted (15 times better than chance). <br>
 > 40 actual exoplanet stars in set (30% in predictions). <br>
 
+### Potential Applications
+This model would be great for filtering a big data set of stars too large for humans to manually look through. This model could generate a list of stars of interest to analyze further. <br>
+
 <br>
 
 For a detailed description of this project, see the technical report in the links below: <br>

@@ -1,6 +1,6 @@
 # Exoplanet Detection with Artificial Neural Networks
 
-#### Note: This project is in stage 2, the results described here are from stage 1. <br>
+#### Note: This project is in stage 2, the results described here and in the technical report are from stage 1. <br>
 ***Stage 2 Goals:*** <br>
 Complete - Label stars as having exoplanets if it has a confirmed exoplanet with an orbit less than the observation period. <br>
 In Progress - Turn neural network into a pipeline in order to Gridsearch over various topologies and hyperparameters. <br>
